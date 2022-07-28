@@ -454,7 +454,7 @@
 };
 /* end modify*/
 #include "mediatek/cust_camellia_camera.dtsi"
-#include <camellia/cust.dtsi>
+#include <mediatek/cust.dtsi>
 #include "mediatek/cust_camellia_fingerprint.dtsi"
 
 /*End of this file, DO NOT ADD ANYTHING HERE*/
